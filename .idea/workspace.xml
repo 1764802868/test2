@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a11cfe7-7a9a-4b80-81b5-ee0f4077ffa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\wenjian3\test2\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1hos32AedVv4kvdkqN0MVFpZeeT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -74,18 +83,34 @@
       <workItem from="1600688580521" duration="137000" />
       <workItem from="1600689050149" duration="4839000" />
       <workItem from="1600694191336" duration="19000" />
-      <workItem from="1600867857131" duration="373000" />
+      <workItem from="1600867857131" duration="883000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次">
+      <created>1600868239000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600868239000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1600868197353">
+    <state x="385" y="10" key="CommitChangelistDialog2" timestamp="1600868238443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600868197353" />
+    <state x="385" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600868238443" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1600868711496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600868711496" />
     <state x="619" y="321" key="Gitee.ShareDialog" timestamp="1600868131300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -94,9 +119,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="632" y="120" key="Gitee.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600868141816" />
-    <state x="643" y="308" width="273" height="277" key="Github.ShareDialog" timestamp="1600868163491">
+    <state x="643" y="308" width="273" height="277" key="Github.ShareDialog" timestamp="1600868288743">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="643" y="308" width="273" height="277" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600868163491" />
+    <state x="643" y="308" width="273" height="277" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600868288743" />
   </component>
 </project>
